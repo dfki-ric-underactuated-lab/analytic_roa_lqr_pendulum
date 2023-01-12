@@ -5,4 +5,4 @@ Link to the paper landing webpage: https://dfki-ric-underactuated-lab.github.io/
 
 Link to software: https://github.com/dfki-ric-underactuated-lab/torque_limited_simple_pendulum/tree/master/software/python/simple_pendulum/controllers/lqr/analytic_roa_estimation
 
-Link to technical paper: https://arxiv.org/abs/2211.15437
+Link to technical paper: https://ieeexplore.ieee.org/document/9992856

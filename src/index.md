@@ -1,7 +1,7 @@
 ---
 title: Analytic Estimation of Region of Attraction of an LQR Controller for Torque Limited Simple Pendulum
 github: https://github.com/dfki-ric-underactuated-lab/torque_limited_simple_pendulum/tree/master/software/python/simple_pendulum/controllers/lqr/analytic_roa_estimation
-pdf: https://arxiv.org/abs/2211.15437
+pdf: https://ieeexplore.ieee.org/document/9992856
 authors:
   - {name: Lukas Gross,   affiliation_key: 1, link: https://robotik.dfki-bremen.de/de/ueber-uns/mitarbeiter/lugr02.html}
   - {name: Lasse Maywald, affiliation_key: 1, link: https://robotik.dfki-bremen.de/de/ueber-uns/mitarbeiter/lama02/}
