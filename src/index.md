@@ -13,7 +13,7 @@ affiliations:
   - {name: University of Bremen, affiliation_key: 2, link: https://www.uni-bremen.de/}
 ---
 
-![test](static/presentation/ROA_LQR_Pend_LGross.mp4){height=300}
+![Presentation at Conference on Decision and Control 2022, Cancun, Mexico](static/presentation/ROA_LQR_Pend_LGross.mp4){height=300}
 
 ## Abstract
 Linear-quadratic regulators (LQR) are a well known and widely used tool in control theory for both linear and nonlinear dynamics. For nonlinear problems, an LQR-based controller is usually only locally viable, thus, raising the problem of estimating the region of attraction (ROA). The need for good ROA estimations becomes especially pressing for underactuated systems, as a failure of controls might lead to unsafe and unrecoverable system states. Known approaches based on optimization or sampling, while working well, might be too slow in time critical applications and are hard to verify formally. In this work, we propose a novel approach to estimate the ROA based on the analytic solutions to linear ODEs for the torque limited simple pendulum. In simulation and physical experiments, we compared our approach to a Lyapunov-sampling baseline approach and found that our approach was faster to compute, while yielding ROA estimations of similar phase space area.
