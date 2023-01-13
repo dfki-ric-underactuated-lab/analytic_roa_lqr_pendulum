@@ -1,5 +1,4 @@
-# analytic_roa_lqr_pendulum
-Analytic Estimation of Region of Attraction of an LQR Controller for Torque Limited Simple Pendulum
+# Analytic Estimation of Region of Attraction of an LQR Controller for Torque Limited Simple Pendulum
 
 Link to the paper landing webpage: https://dfki-ric-underactuated-lab.github.io/analytic_roa_lqr_pendulum/ 
 
